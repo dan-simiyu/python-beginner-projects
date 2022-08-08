@@ -8,5 +8,5 @@ print(password)
 
 current_time = datetime.datetime.now()
 
-with open("security_key.txt", "w") as file:
-    file.write(password + " " + str(current_time))
+with open("security_key.txt", "a") as file:
+    file.write("\n" + password + " " + str(current_time))

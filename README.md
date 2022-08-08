@@ -4,6 +4,7 @@
 3. Email Slicer
 4. Story Generator
 5. Password Generator
+6. Rock, Paper, and Scissors
 
 # References
 Credits to [Aman Kharwal](https://medium.com/coders-camp/60-python-projects-with-source-code-919cd8a6e512)
